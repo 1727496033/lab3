@@ -16,7 +16,7 @@ import java.lang.*;
 
 public class Main {
     private Graph G;
-   // private JFrame jframe = new JFrame();
+   //
 
     public Main(){
         //GUI设计

@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * Created by uuuup on 2017/9/5.
+ * Created by uuuup
  */
 public class Side {
     private String head = new String();

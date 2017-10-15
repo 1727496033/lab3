@@ -32,7 +32,7 @@ import java.io.FileWriter;
 import java.io.InputStreamReader;
 /**
  * <dl>
- * <dt>Purpose: GraphViz Java API
+ * <dt>Purpose:
  * <dd>
  *
  * <dt>Description:
